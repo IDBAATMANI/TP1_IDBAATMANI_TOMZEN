@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714085041 source:c:\users\idbaa\onedrive\bureau\projet_c\ex6v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+
