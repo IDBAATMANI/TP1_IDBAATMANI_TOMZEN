@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1711198685 source:c:\users\idbaa\onedrive\bureau\projet_c\exercice_2\main.c
-	<pthread.h>
-	<stdio.h>
-	<stdlib.h>
-
